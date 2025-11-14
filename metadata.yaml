@@ -1,0 +1,42 @@
+# StudyAI Metadata
+
+name: StudyAI
+description: An AI-powered study assistant that transforms study materials into flashcards, quizzes, and summaries.
+
+# App details
+homepage: https://github.com/6NineLives/FlutterStudy
+repository: https://github.com/6NineLives/FlutterStudy
+issue_tracker: https://github.com/6NineLives/FlutterStudy/issues
+
+# Author
+author: 6NineLives
+
+# Screenshots
+screenshots:
+  - description: Home screen with study kits
+    path: screenshots/home.png
+  - description: Flashcard viewer with SRS
+    path: screenshots/flashcards.png
+  - description: Quiz interface
+    path: screenshots/quiz.png
+  - description: Progress tracking
+    path: screenshots/progress.png
+
+# Key features
+features:
+  - AI-powered content generation
+  - Spaced repetition learning (SM-2)
+  - Offline support with SQLite
+  - PDF, image, and text import
+  - Modern pastel UI design
+
+# Tags
+tags:
+  - education
+  - study
+  - ai
+  - flashcards
+  - quizzes
+  - learning
+  - spaced-repetition
+  - openai
